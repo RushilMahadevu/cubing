@@ -39,7 +39,7 @@ params:
     # Where the main hero button links to
     buttonlink: "#"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: mainart/mainArt2.jpg
     # Footer logos (from static/images/logos/clients/___.svg)
 
   # Customizable navbar. For a dropdown, add a "sublinks" list.
