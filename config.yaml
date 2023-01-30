@@ -45,9 +45,9 @@ params:
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
   - title: Features
-    url: /index.html#section5
+    url: /#section5
   - title: Sign up
-    url: /index.html#section5
+    url: /#section5
     button: true
   # sidebar:
   #   # Logo (from /images/logos/___.svg)
@@ -90,17 +90,17 @@ params:
     - title: Fun
       icon: fun
       text:
-      url: /index.html#section5
+      url: /#section5
       buttonText: Get started
     - title: Focus
       icon: brain
       text:
-      url: /index.html#section5
+      url: /#section5
       buttonText: Get started
     - title: Speed
       icon: speed
       text:
-      url: /index.html#section5
+      url: /#section5
       buttonText: Get started
     
   section2:
@@ -140,7 +140,7 @@ params:
   #     job: HR Manager
   #     img: 3
   section5:
-    title: Contact Us!
+    title: Come join Us!
     subtitle: Come join us. We'd love to cube together.
     buttonText: Send Message
     action: https://formspree.io/f/xpzeqlaw
